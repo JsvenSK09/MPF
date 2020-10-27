@@ -7,7 +7,7 @@ This is a simple program where the user can play media such music and video, edi
 ## What I've Learned
 Using Java language for making simple animation, calculation, GUI, and panels
 
-##Info
+## Info
 For easiest editing or make changes the program, I recommend using NetBeans-IDE 8.2
 
 ## Screenshot of Program
